@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
- simulando uma conta bancária atraves de atividade pela DIO.
+Simulando uma conta bancária pelo terminal como atividade pela DIO.
